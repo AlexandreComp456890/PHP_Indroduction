@@ -1,4 +1,4 @@
-# Project Title
+# PHP Introduction
 
 Solved simple PHP exercises, introduction to the language.
 
